@@ -1,0 +1,20 @@
+# NeedZeroXtraTrash runtime dependencies (Windows)
+#
+# Fan control for the NZXT RGB & Fan Controller (AC-2RGBC-B1).
+liquidctl==1.16.0
+
+# Native desktop window that renders the Windows-95 style HTML UI
+# (uses the built-in Edge WebView2 on Windows, no browser needed).
+pywebview==6.2.1
+# Needed by pywebview on Windows and by the LibreHardwareMonitor sensor
+# backend (its DLLs are fetched into lib/ by fetch_deps.py, not via pip).
+pythonnet==3.1.0
+
+# System-tray icon / background service.
+pystray==0.19.5
+# 12.3.0 fixes the 12.2.x image/font parser security advisories.
+Pillow==12.3.0
+
+# Reproducible packaging: dependency upgrades must be deliberate, otherwise
+# identical source revisions can produce differently sized executables.
+PyInstaller==6.21.0

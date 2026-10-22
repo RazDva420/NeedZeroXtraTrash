@@ -1,0 +1,21 @@
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+
+[tool.mypy]
+files = ["src/needzero"]
+mypy_path = "src"
+explicit_package_bases = true
+strict = true
+
+[tool.ruff]
+src = ["src"]
+target-version = "py312"
+extend-exclude = ["build", "dist", "lib", "deps", ".test-deps", ".review-deps"]
+
+[tool.coverage.run]
+source = ["needzero"]
+
+[tool.coverage.report]
+fail_under = 80
+show_missing = true

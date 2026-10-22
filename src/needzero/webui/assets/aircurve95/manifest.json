@@ -1,0 +1,242 @@
+[
+  {
+    "file": "01_computer_full.png",
+    "bbox": [
+      92,
+      313,
+      635,
+      786
+    ],
+    "method": "edge_bg_remove"
+  },
+  {
+    "file": "02_arrow_rear_exhaust_left.png",
+    "bbox": [
+      54,
+      422,
+      112,
+      486
+    ],
+    "method": "edge_bg_remove"
+  },
+  {
+    "file": "03_arrow_top_exhaust_1.png",
+    "bbox": [
+      212,
+      281,
+      262,
+      339
+    ],
+    "method": "edge_bg_remove"
+  },
+  {
+    "file": "04_arrow_top_exhaust_2.png",
+    "bbox": [
+      339,
+      281,
+      389,
+      339
+    ],
+    "method": "edge_bg_remove"
+  },
+  {
+    "file": "05_arrow_top_exhaust_3.png",
+    "bbox": [
+      466,
+      281,
+      516,
+      339
+    ],
+    "method": "edge_bg_remove"
+  },
+  {
+    "file": "06_arrow_front_intake_1.png",
+    "bbox": [
+      620,
+      376,
+      683,
+      438
+    ],
+    "method": "edge_bg_remove"
+  },
+  {
+    "file": "07_arrow_front_intake_2.png",
+    "bbox": [
+      620,
+      478,
+      683,
+      540
+    ],
+    "method": "edge_bg_remove"
+  },
+  {
+    "file": "08_arrow_front_intake_3.png",
+    "bbox": [
+      620,
+      582,
+      683,
+      644
+    ],
+    "method": "edge_bg_remove"
+  },
+  {
+    "file": "09_fan_top_1.png",
+    "bbox": [
+      189,
+      326,
+      289,
+      383
+    ],
+    "method": "manual_ellipse_mask"
+  },
+  {
+    "file": "10_fan_top_2.png",
+    "bbox": [
+      309,
+      326,
+      410,
+      383
+    ],
+    "method": "manual_ellipse_mask"
+  },
+  {
+    "file": "11_fan_top_3.png",
+    "bbox": [
+      431,
+      326,
+      531,
+      383
+    ],
+    "method": "manual_ellipse_mask"
+  },
+  {
+    "file": "12_fan_rear.png",
+    "bbox": [
+      99,
+      349,
+      160,
+      446
+    ],
+    "method": "manual_ellipse_mask"
+  },
+  {
+    "file": "13_fan_front_1.png",
+    "bbox": [
+      532,
+      353,
+      607,
+      440
+    ],
+    "method": "manual_ellipse_mask"
+  },
+  {
+    "file": "14_fan_front_2.png",
+    "bbox": [
+      532,
+      455,
+      607,
+      542
+    ],
+    "method": "manual_ellipse_mask"
+  },
+  {
+    "file": "15_fan_front_3.png",
+    "bbox": [
+      532,
+      560,
+      607,
+      647
+    ],
+    "method": "manual_ellipse_mask"
+  },
+  {
+    "file": "16_top_fans_row.png",
+    "bbox": [
+      188,
+      324,
+      532,
+      385
+    ],
+    "method": "manual_mask"
+  },
+  {
+    "file": "17_front_fans_stack.png",
+    "bbox": [
+      528,
+      350,
+      610,
+      650
+    ],
+    "method": "manual_mask"
+  },
+  {
+    "file": "18_cpu_cooler.png",
+    "bbox": [
+      249,
+      409,
+      348,
+      508
+    ],
+    "method": "manual_mask"
+  },
+  {
+    "file": "19_gpu.png",
+    "bbox": [
+      164,
+      491,
+      449,
+      586
+    ],
+    "method": "manual_polygon_mask"
+  },
+  {
+    "file": "20_ram_sticks.png",
+    "bbox": [
+      335,
+      356,
+      413,
+      520
+    ],
+    "method": "manual_rect_mask"
+  },
+  {
+    "file": "21_motherboard_area.png",
+    "bbox": [
+      170,
+      342,
+      445,
+      523
+    ],
+    "method": "manual_mask"
+  },
+  {
+    "file": "22_cables_bundle.png",
+    "bbox": [
+      393,
+      370,
+      546,
+      634
+    ],
+    "method": "manual_polygon_mask"
+  },
+  {
+    "file": "23_psu_shroud.png",
+    "bbox": [
+      165,
+      601,
+      441,
+      735
+    ],
+    "method": "manual_mask"
+  },
+  {
+    "file": "24_case_front_bracket.png",
+    "bbox": [
+      498,
+      309,
+      615,
+      661
+    ],
+    "method": "manual_mask"
+  }
+]

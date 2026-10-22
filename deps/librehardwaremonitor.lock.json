@@ -1,0 +1,73 @@
+{
+  "schema": 1,
+  "component": "LibreHardwareMonitor",
+  "version": "0.9.6",
+  "url": "https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/releases/download/v0.9.6/LibreHardwareMonitor.zip",
+  "archive_sha256": "086d9f1b5a99e643edc2cfaaac16051685b551e4c5ac0b32a57c58c0e529c001",
+  "files": {
+    "CapFrameX.Extensions.dll": {
+      "size": 20480,
+      "sha256": "b105f224ffb74a3271ad5ca788e9b1e5e9fe77ee4aca317e106fd437ba7efc0f"
+    },
+    "CapFrameX.Extensions.dll.config": {
+      "size": 3025,
+      "sha256": "a84dbe1565174b6834f5d03b066f0215620f517aa803ea3673ba3ebe7ec9583e"
+    },
+    "CapFrameX.Monitoring.Contracts.dll": {
+      "size": 5632,
+      "sha256": "74f61b5b07abd442c9d768c668cb9f7de2a1664fe5e4d45b53bf14b994e6f998"
+    },
+    "CapFrameX.Monitoring.Contracts.dll.config": {
+      "size": 710,
+      "sha256": "e5aa97d11e3bd5a8f06424805ef8b33002be423f3a79aa4d6d277f89f44d0fe2"
+    },
+    "HidSharp.dll": {
+      "size": 262792,
+      "sha256": "fdeee6309464b013fec972b72385607c6ead4b3dc25a06d3189cd4f27b570b5f"
+    },
+    "LibreHardwareMonitorLib.dll": {
+      "size": 1303552,
+      "sha256": "053c1750b12d43283cf5b993d1a1522d33697b01be0e409e957d9e5d4037055e"
+    },
+    "PawnIO.sys": {
+      "size": 85344,
+      "sha256": "e19f274b9f3c917445bff19a80bbe2ee34a54995e62be50073122b20d86af900"
+    },
+    "PawnIOLib.dll": {
+      "size": 39248,
+      "sha256": "5af38af0b002a4f50e7e2ff94af6139162ac03677cc73811bf0ac11e0616c5e9"
+    },
+    "PawnIOUtil.exe": {
+      "size": 316088,
+      "sha256": "7d9cf87a6c54e661365aac8503889578acae101d7a1cfcbf660d1d2812b3a7d9"
+    },
+    "Serilog.dll": {
+      "size": 126464,
+      "sha256": "7344321f0385a0189d641d7a11371524b91327930bb8ebbef2dabd94bdac0ba8"
+    },
+    "Serilog.Extensions.Logging.dll": {
+      "size": 15872,
+      "sha256": "f85465d3415981718d8bbeadae859e24f8507214498445dcdd7a8c9f80aeedd2"
+    },
+    "System.Buffers.dll": {
+      "size": 23816,
+      "sha256": "2d78d770c9cb997199154ae8c018b9f1d1efbc86729f7264dde6dbad2a12cac3"
+    },
+    "System.Memory.dll": {
+      "size": 145200,
+      "sha256": "d5e8e4866f9cfa66f7765660f84b210198893e55335487afe5ebda342c0e913d"
+    },
+    "System.Numerics.Vectors.dll": {
+      "size": 110344,
+      "sha256": "20c2fa81b8c70d651099d762954f285fd4f942e63b2d7217c145dab8d4b2f4c9"
+    },
+    "System.Reactive.dll": {
+      "size": 1364432,
+      "sha256": "e7da3097fd6c39018c38b9dc4dfe85005bde036cb01bec4b3bfcb007d64db7a0"
+    },
+    "System.Runtime.CompilerServices.Unsafe.dll": {
+      "size": 19256,
+      "sha256": "08cbd7278b66f1e68425a82d4b97181a4130d93e3dd91831407aba7212ccdacf"
+    }
+  }
+}
